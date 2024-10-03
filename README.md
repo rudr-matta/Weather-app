@@ -1,0 +1,1 @@
+The Weather App is a simple JavaScript-based application that allows users to check the current weather conditions for any location. It fetches real-time weather data from a weather API and displays it in an intuitive interface.
